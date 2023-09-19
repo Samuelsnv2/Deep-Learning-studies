@@ -25,7 +25,7 @@ To run this project:
 2. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/iris-perceptron.git
+   git clone https://github.com/Samuelsnv2/ML-learning/tree/main/Perceptron
    ```
 
 3. Navigate to the project directory:
