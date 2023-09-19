@@ -16,7 +16,7 @@ The project structure consists of the following components:
 
 - **iris_perceptron_sigmoid.py**: Implementation of the Perceptron model with the sigmoid activation function.
 - **iris_perceptron_tanh.py**: Implementation of the Perceptron model with the hyperbolic tangent (tanh) activation function.
-- **iris_perceptron_binary.py**: Implementation of the Perceptron model with the binary activation function.
+- **iris_perceptron.py**: Implementation of the Perceptron model with the binary activation function.
 - **requirements.txt**: List of required Python libraries.
 
 ## Instructions
