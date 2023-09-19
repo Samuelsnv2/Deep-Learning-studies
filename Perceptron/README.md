@@ -69,7 +69,4 @@ This project was inspired by the well-known Iris dataset and Perceptron concepts
 ## About the Iris Dataset
 The Iris dataset is a widely-used dataset in the field of machine learning. It contains 150 samples of Iris flowers, with four features: sepal length, sepal width, petal length, and petal width. The dataset includes three species: setosa, versicolor, and virginica.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 This README provides comprehensive information about the project structure, instructions for running the code, model analysis, suggestions for improvements, acknowledgments, and additional information about the Iris dataset. Please customize it as needed and add it to your GitHub repository for better documentation.
