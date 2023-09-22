@@ -26,13 +26,13 @@ To run and analyze the Perceptron models:
 1. Clone this repository to your local computer:
 
    ```bash
-   git clone https://github.com/yourusername/iris-flower-classification
+   git clone https://github.com/Samuelsnv2/ML-learning/tree/main/Perceptron
    ```
 
 2. Navigate to the project directory:
 
     ```
-    cd iris-flower-classification
+    cd Perceptron
     ```
     
     Install the necessary Python libraries:
