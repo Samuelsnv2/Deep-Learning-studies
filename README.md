@@ -10,6 +10,7 @@ In this repository, you will find a collection of projects that I have worked on
 
 - **Project 1**: [Perceptron](https://github.com/Samuelsnv2/ML-learning/tree/main/Perceptron) - In this project, I implemented a Perceptron model to classify Iris flowers based on their characteristics using the famous Iris dataset. The Perceptron is a simple machine learning algorithm that can separate linear classes, making it an ideal choice for this task.
 
+- **Project 2**: [MLP](https://github.com/Samuelsnv2/ML-learning/tree/main/MLP) 
 
 ## Tools and Technologies
 
