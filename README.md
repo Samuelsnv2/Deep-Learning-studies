@@ -10,7 +10,27 @@ In this repository, you will find a collection of projects that I have worked on
 
 - **Project 1**: [Perceptron](https://github.com/Samuelsnv2/ML-learning/tree/main/Perceptron) - In this project, I implemented a Perceptron model to classify Iris flowers based on their characteristics using the famous Iris dataset. The Perceptron is a simple machine learning algorithm that can separate linear classes, making it an ideal choice for this task.
 
-- **Project 2**: [MLP](https://github.com/Samuelsnv2/ML-learning/tree/main/MLP) 
+- **Project 2**: [Multilayer Perceptron (MLP)](https://github.com/Samuelsnv2/ML-learning/tree/main/MLP) - This project focuses on implementing a Multilayer Perceptron, a fundamental type of artificial neural network. I trained the MLP on various datasets, exploring its capabilities in solving complex classification problems.
+
+   - **Contents**:
+     - `mlp_iris.py`: Implementation of MLP for Iris dataset classification.
+     - `mlp_mnist.py`: MLP implementation for recognizing handwritten digits using the MNIST dataset.
+     - `mlp_custom_dataset.py`: Training MLP on a custom dataset.
+     
+   - **Usage**:
+     - Check out the individual Python files for specific usage instructions.
+     - Required libraries: NumPy, Keras.
+
+- **Project 3**: [Convolutional Neural Network (CNN)](https://github.com/Samuelsnv2/ML-learning/tree/main/CNN) - This project delves into Convolutional Neural Networks, a powerful deep learning technique essential for image recognition tasks. I trained CNNs on datasets like Fashion MNIST, exploring advanced architectures and techniques to enhance accuracy.
+
+   - **Contents**:
+     - `fashion_mnist_cnn.ipynb`: Jupyter Notebook containing the CNN model for Fashion MNIST dataset.
+     - `test_fashion_cnn.ipynb`: Jupyter Notebook to test the trained CNN model on custom images.
+     - `image_test/`: Directory for storing custom images to test the CNN model.
+     
+   - **Usage**:
+     - Follow the instructions in the Jupyter notebooks for training the model and testing custom images.
+     - Required libraries: Keras, NumPy, Matplotlib.
 
 ## Tools and Technologies
 
