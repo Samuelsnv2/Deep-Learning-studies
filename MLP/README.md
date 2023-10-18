@@ -1,4 +1,4 @@
-# Neural Networks Project
+# MLP Projects
 
 This repository contains implementations of neural network models for two different datasets: the MNIST dataset and the Iris dataset. Each model is developed in Python and utilizes the scikit-learn library for some data-related operations.
 
