@@ -13,13 +13,14 @@ In this repository, you will find a collection of projects that I have worked on
 - **Project 2**: [Multilayer Perceptron (MLP)](https://github.com/Samuelsnv2/ML-learning/tree/main/MLP) - This project focuses on implementing a Multilayer Perceptron, a fundamental type of artificial neural network. I trained the MLP on various datasets, exploring its capabilities in solving complex classification problems.
 
    - **Contents**:
-     - `mlp_iris.py`: Implementation of MLP for Iris dataset classification.
-     - `mlp_mnist.py`: MLP implementation for recognizing handwritten digits using the MNIST dataset.
-     - `mlp_custom_dataset.py`: Training MLP on a custom dataset.
+     - `iris_mlp_relu.ipynb`: Implementation of MLP for Iris dataset classification with relu as activation function.
+     - `iris_mlp_tanh.ipynb`: Implementation of MLP for Iris dataset classification with tanh as activation function.
+     - `iris_mlp_sigmoid.ipynb`: Implementation of MLP for Iris dataset classification with sigmoid as activation function.
+     - `mnist_mlp.ipynb`: MLP implementation for recognizing handwritten digits using the MNIST dataset.
      
    - **Usage**:
      - Check out the individual Python files for specific usage instructions.
-     - Required libraries: NumPy, Keras.
+     - Required libraries: NumPy, TensorFlow, Matplotlib.
 
 - **Project 3**: [Convolutional Neural Network (CNN)](https://github.com/Samuelsnv2/ML-learning/tree/main/CNN) - This project delves into Convolutional Neural Networks, a powerful deep learning technique essential for image recognition tasks. I trained CNNs on datasets like Fashion MNIST, exploring advanced architectures and techniques to enhance accuracy.
 
