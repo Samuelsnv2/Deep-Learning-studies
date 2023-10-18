@@ -26,27 +26,20 @@ pip install -r requirements.txt
 
 ## File Descriptions
 
-- **`mnist_mlp.py`:**
+- **`mnist_mlp.ipynb`:**
   This file contains the implementation of the neural network for the MNIST dataset. The model is trained using the ReLU activation function and is capable of recognizing handwritten digits.
 
-- **`iris_mlp_relu.py`:**
+- **`iris_mlp_relu.ipynb`:**
   Implementation of the MLP for the Iris dataset with ReLU activation.
 
-- **`iris_mlp_tanh.py`:**
+- **`iris_mlp_tanh.ipynb`:**
   Implementation of the MLP for the Iris dataset with the Hyperbolic Tangent (tanh) activation function.
 
-- **`iris_mlp_sigmoid.py`:**
+- **`iris_mlp_sigmoid.ipynb`:**
   Implementation of the MLP for the Iris dataset with the Sigmoid activation function.
 
 ## How to Use
 
-Each directory contains a script file corresponding to the model. To run a specific model, simply navigate to the desired directory and execute the corresponding Python file.
-
-**Example:**
-
-```bash
-cd mnist_mlp
-python mnist_mlp.py
-```
+Each directory contains a Jupyter file corresponding to the model. To run a specific model, simply navigate to the desired directory and execute the corresponding cell.
 
 Make sure to have Python and the required libraries installed before running the scripts.
