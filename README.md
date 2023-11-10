@@ -1,6 +1,6 @@
 # Machine Learning and Deep Learning Projects
 
-Welcome to my repository where I share my Machine Learning and Deep Learning projects as I learn and grow in this field. This repository primarily utilizes Python and Jupyter notebooks.
+Welcome to my repository where I share my Machine Learning and Deep Learning projects as I learn and grow in this field. This repository primarily utilizes Python and Jupyter notebooks. I am focusing on Computer Vision projects.
 
 ## About
 
